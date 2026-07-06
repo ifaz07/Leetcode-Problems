@@ -6,20 +6,24 @@ class Node(object):
         self.neighbors = neighbors if neighbors is not None else []
 """
 
+from collections import deque
+
 class Solution(object):
     def cloneGraph(self, node):
         if not node:
             return None
         
         clones = {node: Node(node.val)}
-        queue = [node]
+        queue = deque([node])
         
         while queue:
-            curr = queue.pop(0)
+            curr = queue.popleft()
+            
             for neighbor in curr.neighbors:
                 if neighbor not in clones:
                     clones[neighbor] = Node(neighbor.val)
                     queue.append(neighbor)
+                
                 clones[curr].neighbors.append(clones[neighbor])
         
         return clones[node]
