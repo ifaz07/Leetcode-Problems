@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ifaz07/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ifaz07/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ifaz07/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0133-clone-graph](https://github.com/ifaz07/Leetcode/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ifaz07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ifaz07/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ifaz07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ifaz07/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ifaz07/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ifaz07/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0133-clone-graph](https://github.com/ifaz07/Leetcode/tree/master/0133-clone-graph) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ifaz07/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ifaz07/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ifaz07/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0133-clone-graph](https://github.com/ifaz07/Leetcode/tree/master/0133-clone-graph) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ifaz07/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ifaz07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/ifaz07/Leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
