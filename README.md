@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ifaz07/Leetcode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/ifaz07/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0412-fizz-buzz](https://github.com/ifaz07/Leetcode/tree/master/0412-fizz-buzz) |
+| [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ifaz07/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/ifaz07/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ifaz07/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ifaz07/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
 |  |
