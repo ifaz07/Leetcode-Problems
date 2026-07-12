@@ -233,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ifaz07/Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/ifaz07/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/ifaz07/Leetcode-Problems/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
