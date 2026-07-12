@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ifaz07/Leetcode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/ifaz07/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0171-excel-sheet-column-number](https://github.com/ifaz07/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/ifaz07/Leetcode/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/ifaz07/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Backtracking
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ifaz07/Leetcode/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/ifaz07/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/ifaz07/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
