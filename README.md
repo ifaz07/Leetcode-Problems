@@ -260,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ifaz07/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ifaz07/Leetcode-Problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
