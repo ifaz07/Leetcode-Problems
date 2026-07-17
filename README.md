@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/ifaz07/Leetcode-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ifaz07/Leetcode-Problems/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/ifaz07/Leetcode-Problems/tree/master/0620-not-boring-movies) |
+| [1075-project-employees-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/ifaz07/Leetcode-Problems/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ifaz07/Leetcode-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
