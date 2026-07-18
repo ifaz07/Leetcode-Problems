@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/ifaz07/Leetcode-Problems/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/ifaz07/Leetcode-Problems/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ifaz07/Leetcode-Problems/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/ifaz07/Leetcode-Problems/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ifaz07/Leetcode-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
