@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ifaz07/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ifaz07/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ifaz07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/ifaz07/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ifaz07/Leetcode/tree/master/0283-move-zeroes) |
 | [0994-rotting-oranges](https://github.com/ifaz07/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ifaz07/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ifaz07/Leetcode-Problems/tree/master/0383-ransom-note) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ifaz07/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
